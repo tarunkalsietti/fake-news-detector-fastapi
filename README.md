@@ -17,16 +17,7 @@ A machine learning project to detect fake news articles using Natural Language P
 - Joblib (for model saving)
 - Dataset: Kaggle (Fake & True news)
 
-## 📂 File Structure
-├── data/
-│ ├── Fake.csv
-│ └── True.csv
-├── model/
-│ ├── fake_news_model.joblib
-│ └── vectorizer.joblib
-├── main.py
-├── train_model.py
-├── startw.py
+<pre> ## 📂 File Structure ``` ├── data/ │ ├── Fake.csv │ └── True.csv ├── model/ │ ├── fake_news_model.joblib │ └── vectorizer.joblib ├── main.py ├── train_model.py ├── startw.py ``` </pre>
 
 
 ## 🔧 Run Locally
